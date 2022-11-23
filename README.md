@@ -5,5 +5,6 @@
 
 <h3 dir="rtl">چگونه ساندیس فارسی را نصب کنم؟</h3>
 برای نصب آخرین نسخه ی ساندیس فارسی از <a href="https://github.com/MasterBehzadi/SandisFarsi/releases/latest">این صفحه</a> فایل SandisFarsi.theme.css را دانلود و در پوشه ی themes برنامه BetterDiscord قرار دهید
-بعد از این کار با فعال کردن دکمه ی تم جدید اضافه شده در بخش UserSettings=>Themes زبان شیرین فارسی را روی دیسکورد خود اعمال کنید
+<br />
+بعد از این کار با فعال کردن دکمه ی تم جدید اضافه شده در بخشUserSettings=>Themes زبان شیرین فارسی را روی دیسکورد خود اعمال کنید
 </div>
