@@ -1,0 +1,19 @@
+@-moz-document domain("discord.com") {
+/* ==UserStyle==
+* @name Sandis Farsi
+* @author !                              !#1343
+* @authorLink https://github.com/MasterBehzadi
+* @description Farsi-Saz Discord (Persian Extension Pack)
+* @version 1.0.2
+* @source https://github.com/MasterBehzadi/SandisFarsi
+*/
+@font-face {
+    font-family: 'IranSans';
+    src: url('https://cdnq.github.io/font/IRANSansWeb/IRANSansWeb.woff');
+}
+::placeholder, body, button, input, select, textarea [dir="rtl"] {
+    font-family: 'IranSans';
+    text-rendering: optimizeLegibility;
+    float: right;
+}
+}
