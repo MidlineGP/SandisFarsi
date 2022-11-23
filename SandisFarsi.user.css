@@ -1,11 +1,11 @@
 @-moz-document domain("discord.com") {
 /* ==UserStyle==
-* @name Sandis Farsi
-* @author !                              !#1343
-* @authorLink https://github.com/MasterBehzadi
-* @description Farsi-Saz Discord (Persian Extension Pack)
-* @version 1.0.2
-* @source https://github.com/MasterBehzadi/SandisFarsi
+@name Sandis Farsi
+@author !                              !#1343
+@authorLink https://github.com/MasterBehzadi
+@description Farsi-Saz Discord (Persian Extension Pack)
+@version 1.0.2
+@namespace https://github.com/MasterBehzadi
 ==/UserStyle== */
 @font-face {
     font-family: 'IranSans';
