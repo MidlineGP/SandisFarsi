@@ -21,4 +21,3 @@
 .editor-wrapper :-webkit-any(textarea, div, span) {
 font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
 }
-
