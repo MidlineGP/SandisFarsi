@@ -7,5 +7,5 @@
 برای نصب آخرین نسخه ی ساندیس فارسی، از <a href="https://github.com/SeniorDiv/SandisFarsi/releases/latest/download/SandisFarsi.theme.css">این لینک</a> فایل SandisFarsi.theme.css را دانلود و در پوشه ی themes برنامه BetterDiscord قرار دهید.
 <br />
 بعد از این کار با فعال کردن دکمه ی تم جدید اضافه شده در بخش UserSettings=>Themes فونت شیرین ایران سنس را روی متن های فارسی دیسکورد خود اعمال کنید.
-
+<h3 dir="rtl">نصب ساندیس فارسی روی دیسکورد وب</h3>
 </div>
