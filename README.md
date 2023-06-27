@@ -10,4 +10,5 @@
 <h3 dir="rtl">نصب ساندیس فارسی روی دیسکورد وب</h3>
 برای نصب زبان شیرین فارسی روی دیسکورد نسخه وب ابتدا باید پلاگین Stylus را برای <a target="_blank" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">گوگل کروم</a>، <a target="_blank" href="https://addons.mozilla.org/firefox/addon/styl-us/">فایر فاکس</a> یا <a target="_blank" href="https://addons.opera.com/extensions/details/stylus/">اپرا</a> نصب کنید
 <br />
+بعد از فعالسازی پلاگین مربوطه با باز کردن <a target="_blank" href="https://raw.githubusercontent.com/SeniorDiv/SandisFarsi/main/SandisFarsi.user.css">این لینک</a> و زدن گزینه install میتونید ساندیس فارسی را نصب کنید.
 </div>
