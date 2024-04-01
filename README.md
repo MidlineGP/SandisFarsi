@@ -4,11 +4,11 @@
 ساندیس فارسی یک تم مینیمال دیسکورد میباشد که فونت دیفالت و زشت دیسکورد را به فونت فارسی و زیبای ایران سنس تغییر میدهد.
 
 <h3 dir="rtl">نصب ساندیس فارسی روی بتر دیسکورد</h3>
-برای نصب آخرین نسخه ی ساندیس فارسی، از <a href="https://github.com/SeniorDiv/SandisFarsi/releases/latest/download/SandisFarsi.theme.css">این لینک</a> فایل SandisFarsi.theme.css را دانلود و در پوشه ی themes برنامه BetterDiscord قرار دهید.
+برای نصب آخرین نسخه ی ساندیس فارسی، از <a href="https://github.com/MidlineGP/SandisFarsi/releases/latest/download/SandisFarsi.theme.css">این لینک</a> فایل SandisFarsi.theme.css را دانلود و در پوشه ی themes برنامه BetterDiscord قرار دهید.
 <br />
 بعد از این کار با فعال کردن دکمه ی تم جدید اضافه شده در بخش UserSettings=>Themes فونت شیرین ایران سنس را روی متن های فارسی دیسکورد خود اعمال کنید.
 <h3 dir="rtl">نصب ساندیس فارسی روی دیسکورد وب</h3>
 برای نصب زبان شیرین فارسی روی دیسکورد نسخه وب ابتدا باید پلاگین Stylus را برای <a target="_blank" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">گوگل کروم</a>، <a target="_blank" href="https://addons.mozilla.org/firefox/addon/styl-us/">فایر فاکس</a> یا <a target="_blank" href="https://addons.opera.com/extensions/details/stylus/">اپرا</a> نصب کنید.
 <br />
-بعد از فعالسازی پلاگین مربوطه با باز کردن <a target="_blank" href="https://raw.githubusercontent.com/SeniorDiv/SandisFarsi/main/SandisFarsi.user.css">این لینک</a> و زدن گزینه install میتونید ساندیس فارسی را نصب کنید.
+بعد از فعالسازی پلاگین مربوطه با باز کردن <a target="_blank" href="https://raw.githubusercontent.com/MidlineGP/SandisFarsi/main/SandisFarsi.user.css">این لینک</a> و زدن گزینه install میتونید ساندیس فارسی را نصب کنید.
 </div>
