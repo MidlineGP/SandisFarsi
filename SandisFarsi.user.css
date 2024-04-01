@@ -4,31 +4,47 @@
 @author SeniorDiv, MohsenEMX
 @description Farsi-Saz Discord (Persian Extension Pack)
 @version 1.2.1
-@namespace https://github.com/SeniorDiv
+@namespace https://github.com/MidlineGP/SandisFarsi
 @updateUrl https://raw.githubusercontent.com/MidlineGP/SandisFarsi/main/SandisFarsi.user.css
 ==/UserStyle== */
 
 
 @font-face {
     font-family: 'IranSans';
-    src: url('https://cdnq.github.io/font/IRANSansWeb/IRANSansWeb.woff');
+    src: url('https://code.midline.ir/SandisFarsi/fonts/IRANSansWeb.woff');
 }
 
 @font-face {
     font-family: 'JetBrains Mono';
-    src: url('https://cdnq.github.io/font/JetBrainsMono/JetBrainsMono-Regular.woff2');
+    src: url('https://code.midline.ir/SandisFarsi/fonts/JetBrainsMono-Regular.woff2');
 }
-* {
-    font-family: "IranSans", 'gg sans';
+@font-face {
+    font-family: 'Vazir Code';
+    src: url('https://code.midline.ir/SandisFarsi/fonts/Vazir-Code.woff2');
+}
+span {
+    font-family: "IranSans";
+}
+.customStatusText__386f7 {
+    font-size: 12px;
+}
+.text-sm-normal__95a78 {
+    font-size: 13px;
 }
 .messageContent_abea64 {
     font-size: 14px;
+}
+.subText__4629e {
+    font-size: 10px;
+}
+.username__4a6f7  {
+    font-size:  14px;
 }
 .hljs,
 .inline,
 .hljs :-webkit-any(ol, li, span),
 .editor-wrapper :-webkit-any(textarea, div, span) {
-font-family: 'Jetbrains Mono', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
+font-family: 'Jetbrains Mono', 'Vazir Code', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
 }
 
 }
