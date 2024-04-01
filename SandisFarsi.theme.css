@@ -9,12 +9,16 @@
 
 @font-face {
     font-family: 'IranSans';
-    src: url('https://cdnq.github.io/font/IRANSansWeb/IRANSansWeb.woff');
+    src: url('https://code.midline.ir/SandisFarsi/fonts/IRANSansWeb.woff');
 }
 
 @font-face {
     font-family: 'JetBrains Mono';
-    src: url('https://cdnq.github.io/font/JetBrainsMono/JetBrainsMono-Regular.woff2');
+    src: url('https://code.midline.ir/SandisFarsi/fonts/JetBrainsMono-Regular.woff2');
+}
+@font-face {
+    font-family: 'Vazir Code';
+    src: url('https://code.midline.ir/SandisFarsi/fonts/Vazir-Code.woff2');
 }
 * {
     font-family: "IranSans", 'gg sans';
@@ -26,5 +30,5 @@
 .inline,
 .hljs :-webkit-any(ol, li, span),
 .editor-wrapper :-webkit-any(textarea, div, span) {
-font-family: 'Jetbrains Mono', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
+font-family: 'Jetbrains Mono', 'Vazir Code', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
 }
