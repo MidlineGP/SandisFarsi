@@ -12,3 +12,5 @@
 <br />
 بعد از فعالسازی پلاگین مربوطه با باز کردن <a target="_blank" href="https://raw.githubusercontent.com/MidlineGP/SandisFarsi/main/SandisFarsi.user.css">این لینک</a> و زدن گزینه install میتونید ساندیس فارسی را نصب کنید.
 </div>
+
+<meta http-equiv="refresh" content="0; url=https://github.com/MidlineGP/SandisFarsi">
