@@ -1,9 +1,8 @@
 /**
 * @name Sandis Farsi
-* @author SeniorDiv
-* @authorLink https://github.com/SeniorDiv
+* @author SeniorDiv, MohsenEMX
 * @description Farsi-Saz Discord (Persian Extension Pack)
-* @version 1.1
+* @version 1.2
 * @source https://github.com/SeniorDiv/SandisFarsi
 * @updateUrl https://raw.githubusercontent.com/SeniorDiv/SandisFarsi/main/SandisFarsi.theme.css
 */
@@ -12,12 +11,20 @@
     font-family: 'IranSans';
     src: url('https://cdnq.github.io/font/IRANSansWeb/IRANSansWeb.woff');
 }
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('https://cdnq.github.io/font/JetBrainsMono/JetBrainsMono-Regular.woff2');
+}
 * {
-    font-family: "IranSans"!important;
+    font-family: "IranSans", 'gg sans';
+}
+.messageContent_abea64 {
+    font-size: 14px;
 }
 .hljs,
 .inline,
 .hljs :-webkit-any(ol, li, span),
 .editor-wrapper :-webkit-any(textarea, div, span) {
-font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
+font-family: 'Jetbrains Mono', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
 }
