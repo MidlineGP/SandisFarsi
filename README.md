@@ -1,4 +1,4 @@
-<h2 dir="rtl">ساندیس فارسی</h2>
+![SandisFarsi-ScreenShot](https://github.com/MidlineGP/SandisFarsi/assets/112262691/032548ce-7783-4d01-83f3-3f2666a0a8e3)
 <div dir="rtl">
 <h3 dir="rtl">ساندیس فارسی چیست؟</h3>
 ساندیس فارسی یک تم مینیمال دیسکورد میباشد که فونت دیفالت و زشت دیسکورد را به فونت فارسی و زیبای ایران سنس تغییر میدهد.
