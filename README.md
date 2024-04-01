@@ -1,3 +1,4 @@
+<h2 dir="rtl">ریپازیتوری جدید: https://github.com/MidlineGP/SandisFarsi/</h2>
 <h2 dir="rtl">ساندیس فارسی</h2>
 <div dir="rtl">
 <h3 dir="rtl">ساندیس فارسی چیست؟</h3>
