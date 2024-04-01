@@ -1,0 +1,34 @@
+@-moz-document domain("discord.com") {
+/* ==UserStyle==
+@name Sandis Farsi
+@author SeniorDiv, MohsenEMX
+@description Farsi-Saz Discord (Persian Extension Pack)
+@version 1.2
+@namespace https://github.com/SeniorDiv
+@updateUrl https://raw.githubusercontent.com/SeniorDiv/SandisFarsi/main/SandisFarsi.user.css
+==/UserStyle== */
+
+
+@font-face {
+    font-family: 'IranSans';
+    src: url('https://cdnq.github.io/font/IRANSansWeb/IRANSansWeb.woff');
+}
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('https://cdnq.github.io/font/JetBrainsMono/JetBrainsMono-Regular.woff2');
+}
+* {
+    font-family: "IranSans", 'gg sans';
+}
+.messageContent_abea64 {
+    font-size: 14px;
+}
+.hljs,
+.inline,
+.hljs :-webkit-any(ol, li, span),
+.editor-wrapper :-webkit-any(textarea, div, span) {
+font-family: 'Jetbrains Mono', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace!important;
+}
+
+}
