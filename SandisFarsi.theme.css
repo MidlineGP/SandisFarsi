@@ -2,11 +2,11 @@
 * @name Sandis Farsi
 * @author SeniorDiv, MohsenEMX
 * @description Farsi-Saz Discord (Persian Extension Pack)
-* @version 1.2.2
-* @source https://github.com/MidlineGP/SandisFarsi
-* @updateUrl https://raw.githubusercontent.com/MidlineGP/SandisFarsi/main/SandisFarsi.theme.css
+* @version 1.2.4
+* @source https://github.com/MidlineGP/SandisFarsi-new
+* @updateUrl https://raw.githubusercontent.com/MidlineGP/SandisFarsi-new/main/SandisFarsi.theme.css
 */
-
+/* test */
 @font-face {
     font-family: 'IranSans';
     src: url('https://code.midline.ir/SandisFarsi/fonts/IRANSansWeb.woff');
@@ -20,11 +20,23 @@
     font-family: 'Vazir Code';
     src: url('https://code.midline.ir/SandisFarsi/fonts/Vazir-Code.woff2');
 }
-* {
-    font-family: "IranSans", 'gg sans';
+span {
+    font-family: "IranSans";
+}
+.customStatusText__386f7 {
+    font-size: 12px;
+}
+.text-sm-normal__95a78 {
+    font-size: 13px;
 }
 .messageContent_abea64 {
     font-size: 14px;
+}
+.subText__4629e {
+    font-size: 10px;
+}
+.username__4a6f7  {
+    font-size:  14px;
 }
 .hljs,
 .inline,
